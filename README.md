@@ -1,4 +1,4 @@
-# [MDS-Net] Multi-axial Directional Strip Attention and Spatial-Semantic Aggregation Network for Drone-Satellite Geo-Localization
+# [MDS] Multi-axial Directional Strip Attention and Spatial-Semantic Aggregation Network for Drone-Satellite Geo-Localization
 
 Code for MDS-Net.
 
